@@ -1,4 +1,21 @@
-## 🔎 Algorithm Analysis
+## Problem Overview
+
+Goal:
+Check if a small string (`word`) is inside a bigger string (`sentence`).
+
+Functions:
+
+Manual:
+- containsSubstringManual
+- firstOccurrenceManual
+- allOccurrencesManual
+
+Built-in:
+- contains
+- indexOf
+- allOccurrencesBuiltIn
+
+## Algorithm Analysis
 
 ### Manual Implementation
 
