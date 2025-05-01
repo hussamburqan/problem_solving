@@ -3,7 +3,7 @@
 ### Manual Implementation
 
 **How it works:**
-- We use two loops:
+- I use two loops:
   - Outer loop: moves from 0 to (sentence length - word length).
   - Inner loop: checks each letter of the word with the sentence.
 

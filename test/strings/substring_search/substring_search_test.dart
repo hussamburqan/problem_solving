@@ -1,5 +1,5 @@
 
-import 'package:problem_solving/strings/substring%20search/substring_search.dart';
+import 'package:problem_solving/strings/substring_search/substring_search.dart';
 import 'package:test/test.dart';
 
 void main() {
